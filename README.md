@@ -1,0 +1,2 @@
+# RIC
+RIC - MScIT Practicals
